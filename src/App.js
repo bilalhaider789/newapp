@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
     <div >
-      hello bilal I am online me boo
+      hello bilal me fool
     </div>
   );
 }
